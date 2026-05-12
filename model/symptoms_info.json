@@ -1,0 +1,86 @@
+[
+    {
+        "key": "temp_uneven",
+        "name": "Неравномерный нагрев"
+    },
+    {
+        "key": "burning_smell",
+        "name": "Запах гари"
+    },
+    {
+        "key": "cooling_failure",
+        "name": "Не работает охлаждение"
+    },
+    {
+        "key": "high_pressur",
+        "name": "Высокое давление"
+    },
+    {
+        "key": "temp_high",
+        "name": "Перегрев"
+    },
+    {
+        "key": "vibration",
+        "name": "Вибрация"
+    },
+    {
+        "key": "strange_noise",
+        "name": "Странный шум"
+    },
+    {
+        "key": "loose_parts",
+        "name": "Ослаблены крепления"
+    },
+    {
+        "key": "belt_squeak",
+        "name": "Свистит ремень"
+    },
+    {
+        "key": "bearing_grind",
+        "name": "Скрежет подшипника"
+    },
+    {
+        "key": "lubrication_issue",
+        "name": "Проблема со смазкой"
+    },
+    {
+        "key": "error_code",
+        "name": "Код ошибки"
+    },
+    {
+        "key": "sparks",
+        "name": "Искрит"
+    },
+    {
+        "key": "current_spike",
+        "name": "Скачки тока"
+    },
+    {
+        "key": "voltage_drop",
+        "name": "Падает напряжение"
+    },
+    {
+        "key": "electric_arc",
+        "name": "Электрическая дуга"
+    },
+    {
+        "key": "smoke",
+        "name": "Дым"
+    },
+    {
+        "key": "oil_leak",
+        "name": "Течь масла"
+    },
+    {
+        "key": "rust",
+        "name": "Коррозия"
+    },
+    {
+        "key": "power_loss",
+        "name": "Падение мощности"
+    },
+    {
+        "key": "speed_unstable",
+        "name": "Нестабильная скорость"
+    }
+]
