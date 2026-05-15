@@ -19,8 +19,8 @@ pip install scikit-learn
 
 ### 3. Запустите приложение
 В том же терминале выполните:
-
+```bash
 streamlit run app.py
-
+```
 ### "Требования" 
 (Python 3.9+)
